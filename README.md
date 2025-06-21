@@ -67,7 +67,6 @@
     </b>
   </samp>
   <br>
-  <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pedro3103lucas@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/lucasternopilski/)
@@ -75,11 +74,6 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedro-lucas-ternopilski/)
 </div>
 
-<br>
-
 ##
-
-<br>
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
