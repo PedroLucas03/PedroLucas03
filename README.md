@@ -10,8 +10,6 @@
     <br>
   </samp>
 </div>
-
-<br>
      
 <div align="center">
   <img src="https://media.giphy.com/media/pswcjOmDj4pIkUqikF/giphy.gif" width="100">
@@ -38,13 +36,6 @@
       align="center"
       alt="Top Language"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucas03&layout=compact&font=Iosevka&langs_count=16&theme=prussian"
-    />
-    <br>
-    <br>
-    <img
-      align="center"
-      alt="Top Language"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroLucas03&theme=prussian"
     />
     <br>
     <br>
