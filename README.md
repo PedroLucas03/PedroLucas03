@@ -12,29 +12,19 @@
 </div>
 
 <br>
-<br>
      
 <div align="center">
-  <img src="https://media.giphy.com/media/pswcjOmDj4pIkUqikF/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/pswcjOmDj4pIkUqikF/giphy.gif" width="100">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Pedro_Lucas-black" />
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering;And+Game+Development;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineering+focused+on+UX/UI;And+Game+Development;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
-
-<details align="center">  
-  <summary>
-    <samp>
-      <b>More Info</b>
-    </samp>
-  </summary>
-  
-  <br>
 
   <div align="center">
     <img
@@ -105,8 +95,6 @@
   </div>
 
   ##
-
-</details>
 
 <br>
 <br>
